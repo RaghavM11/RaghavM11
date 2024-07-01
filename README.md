@@ -8,8 +8,5 @@
 - Email (imraghav [AT] umich.edu)
 - [Homepage](https://github.com/RaghavM11/RaghavM11)
 - [Linkedin](https://www.linkedin.com/in/raghavmishra09/)
-- 
-![Raghav's Github Stats](https://github-readme-stats.vercel.app/api?username=RaghavM11&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavM11&hide=TeX&layout=compact)
   
 
