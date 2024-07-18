@@ -2,7 +2,7 @@
 😄 **I am open to**:
 
 - collaboration opportunities (anytime & anywhere & any type) and 
-- research internships
+- research positions
 
 📫 **Contact me by**:
 - Email (imraghav [AT] umich.edu)
