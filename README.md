@@ -1,7 +1,7 @@
 # RaghavM11
 😄 **I am open to**:
 
-- collaboration opportunities (on SLAM and differentiable Spatio-temporal represtantions for autonomy) and 
+- collaboration opportunities (on SLAM and differentiable Spatio-temporal represtantions for autonomus systems) and 
 - research positions
 
 📫 **Contact me by**:
